@@ -1,0 +1,16 @@
+.tab-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    border-radius: 8px; /* Rounded corners */
+    border: 1px solid #444444; /* Dark border color */
+    background-color: #333333; /* Dark background color */
+}
+
+.tab-card:hover {
+    background-color: #444444; /* Slightly lighter background on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* More pronounced shadow on hover */
+}
+
+body {
+
+    color: white;
+}
